@@ -1,5 +1,7 @@
 Config-Generator
 
+WARNING: This software is not maintained anymore.
+
 The goal of this collection of modules is to ease the generation of low-level
 configuration files from high-level configuration items and templates.
 
